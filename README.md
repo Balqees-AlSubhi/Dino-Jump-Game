@@ -1,0 +1,1 @@
+My Scratch project is a dinosaur jumping game. The objective of this game is to guide the dinosaur to avoid colliding with objects (eggs and rocks) by using the space key to make it jump. The game will keep track of the jumping score, and it concludes when the dinosaur collides with an object, accompanied by the sound 'OUCH' announcing the end of the game.
